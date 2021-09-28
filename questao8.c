@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 
+
 int main() {
 
 int valor_em_segundos= 100000;

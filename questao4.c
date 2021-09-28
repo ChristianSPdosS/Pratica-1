@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
 
   float preco_inicial= 20.0f;

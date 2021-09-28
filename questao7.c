@@ -3,7 +3,7 @@
 
 int main() {
 
-  float angulo= 30.0;
+  float angulo= 30.0f;
   float distancia= 100.0f;
 
   float altura= (distancia * sin(angulo));
