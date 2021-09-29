@@ -12,3 +12,5 @@ int main() {
 
  return 0;
 }
+
+//vezes pi / por 180

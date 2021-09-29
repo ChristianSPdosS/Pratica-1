@@ -4,8 +4,8 @@
 int main() {
 
 float a= 1.0f;
-float b= 2.0f;
-float c= -1.0f;
+float b= 6.0f;
+float c= 5.0f;
 
 float delta= (b * b -4 * a * c);
 
