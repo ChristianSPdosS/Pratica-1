@@ -3,8 +3,8 @@
 
 int main() {
 
-  float base= 10.0f;
-  float altura= 6.0f;
+  int base= 10.0f;
+  int altura= 6.0f;
 
   float area= (base * altura)/2;
 
